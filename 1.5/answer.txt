@@ -1,0 +1,5 @@
+The 'var++' coding convention symbolizes a post-increment of the variable var. A post-increment differs from the pre-increment operator (++var) by a nuanced difference:
+the variable var is incremented before the line in which it occurs for pre-increment and occurs immediatly after the line is executed for post-increment. Therefore,
+we can theorize that Bjarne Stroustrup used the name 'C++' to indicate that the language was a post-incremental change to the C language. This would make sense
+since Stroustrup designed the C++ language after the creation of C in order to support OOP and provide more libraries for programmers, which offered more 
+capabilities to using C, while still supporting many of the C conventions and standard libraries.
