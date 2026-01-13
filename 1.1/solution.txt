@@ -1,0 +1,40 @@
+~/Documents/Code/AdvancedCPP-MPCS/HWs/CPP-I-HW-1-1/1.1/vector_simple_demo
+seb@Sebs-MacBook-Pro on main % cd ../PersonalizedHello; g++ -std=c++20 personalized_hello.cpp -o personalized_hello; ./personalized_hello                                        ✔ ⏰ 16:16:39 ⏱ 1s
+What's your name? Sebastian
+Hello, Sebastian!
+
+~/Documents/Code/AdvancedCPP-MPCS/HWs/CPP-I-HW-1-1/1.1/PersonalizedHello
+seb@Sebs-MacBook-Pro on main % cd ../vector_simple_demo; g++ -std=c++20 vector_simple_demo.cpp -o vsd; ./vsd                                                                     ✔ ⏰ 16:17:29 ⏱ 3s
+1, 4, 16, %                                                                                                                                                                                         
+
+~/Documents/Code/AdvancedCPP-MPCS/HWs/CPP-I-HW-1-1/1.1/vector_simple_demo
+seb@Sebs-MacBook-Pro on main % cd ../Frame; g++ -std=c++20 frame.cpp -o frame; ./frame                                                                                           ✔ ⏰ 16:18:05 ⏱ 1s
+What's your name? Sebastian
+
+*****************************
+*                           *
+*                           *
+*                           *
+*                           *
+*                           *
+*     Hello, Sebastian!     *
+*                           *
+*                           *
+*                           *
+*                           *
+*                           *
+*****************************
+
+~/Documents/Code/AdvancedCPP-MPCS/HWs/CPP-I-HW-1-1/1.1/Frame
+seb@Sebs-MacBook-Pro on main % cd ../Frame2; g++ -std=c++20 frame2.cpp -o frame2; ./frame2                                                                                       ✔ ⏰ 16:18:47 ⏱ 4s
+What's your name? Sebastian
+
+*********************
+*                   *
+* Hello, Sebastian! *
+*                   *
+*********************
+
+
+~/Documents/Code/AdvancedCPP-MPCS/HWs/CPP-I-HW-1-1/1.1/Frame2
+seb@Sebs-MacBook-Pro on main %     
