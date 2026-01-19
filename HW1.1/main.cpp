@@ -1,0 +1,18 @@
+/*
+ * HW1.1 - C++ Programming I
+ * 
+ * Name: [Your Name]
+ * Date: [Date]
+ * 
+ * Description: [Brief description of what this program does]
+ */
+
+#include <iostream>
+
+int main() {
+    // TODO: Implement your solution here
+    
+    std::cout << "HW1.1 Solution" << std::endl;
+    
+    return 0;
+}
